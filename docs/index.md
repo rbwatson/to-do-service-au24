@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # To-Do service API
 
 This is a mock API to simulate the REST interface of an
