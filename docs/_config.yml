@@ -113,7 +113,7 @@ sidebars:
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
-# url: http://idratherbewriting.com
-# baseurl: /documentation-theme-jekyll
+url: https://rbwatson.github.io
+baseurl: /to-do-service-au24
 
 github: [metadata]
