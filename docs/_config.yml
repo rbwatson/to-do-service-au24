@@ -1,1 +1,15 @@
-title: To-Do service API
+# This file configures how the docs are built.
+#
+# This defines the theme to use to build and style the docs.
+#   The value requires a valid Jekyll theme that is stored in a 
+#     publicly available GitHub repo.
+#     The format for this property's value is <GitHub account>/<repo> 
+remote_theme: just-the-docs/just-the-docs
+#
+# These values describe aspects of the final documentation. How they are
+# applied depends on the theme that is in use.
+title: To-Do Service
+description: Documentation of the To-Do service API
+url: https://rbwatson.github.io/to-do-service-au24
+aux_links: # remove if you don't want this link to appear on your pages
+  Template Repository: https://github.com/rbwatson/to-do-service-au24
