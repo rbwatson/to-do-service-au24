@@ -1,10 +1,12 @@
 ---
-layout: page
+layout: default
+parent: user resource
+nav_order: 1
 ---
 
 # Get all users
 
-Returns an array of [`user`](user) objects that contains all users that have registered with the service.
+Returns an array of [`user`](user.md) objects that contains all users that have registered with the service.
 
 ## URL
 
